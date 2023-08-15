@@ -1,0 +1,23 @@
+Throwable
+
+    Exception(Checked Exception)
+        1.SQLException
+        2.IoException (input output exception)
+            -FileNotFoundException
+        3.ClassNotFoundException
+        4.RuntimeException(Unchecked Exception)
+            -ArithmeticException
+            -NullPointerException
+            -NumberFormatException
+            -ClassesCastException
+            -IndexOutOfBoundException
+                    -ArrayIndexOutOfBoundException
+                    -StringIndexOutOfBoundException
+
+
+
+     Error
+        1.VirtualError
+        2.AssertionError
+        3.OutOfMemoryError
+        4.StackOverFlowError

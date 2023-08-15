@@ -1,0 +1,10 @@
+                                        iterable(I)
+                                            |
+    ___________________________________collection(I)___________________________________
+   |                                         |                                         |
+ List(I)                                  Queue(I)                                  Set(I)
+                                            -PriorityQueue(C)                          -HashSet(C)
+ -ArrayList(c)                              |                                          -LinkedHashSet(C)
+ -LinkedList(C)                           Dequeue(I)                                  |
+ -Vector(C)                                  -ArrayDequeue(C)                       SortedSet(I)
+   - Stack(C)                                                                          -TreeSet(C)
